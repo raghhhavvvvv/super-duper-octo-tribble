@@ -1,0 +1,7 @@
+.ENV/
+
+
+logs/
+*.logs
+
+.env
