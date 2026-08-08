@@ -1,0 +1,3 @@
+Date: 8 august 2026
+1. today i have completed the whole architecture related to the bot and stated them into a repo on github
+2. assigned the folders and their respective files into the github as git was not accepting empty folders
