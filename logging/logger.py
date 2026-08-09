@@ -18,4 +18,4 @@ logging.basicConfig(
 ) 
 
 
-logging.info("Fuck you")
+logging.info("QWERTY")
